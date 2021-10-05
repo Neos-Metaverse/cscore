@@ -10,7 +10,7 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: 'Library.sln'
+  solution: 'CSCore.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
